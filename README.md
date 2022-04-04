@@ -15,3 +15,7 @@ move = move o item para uma casa a frente na direção selecionada.
 rigth/left/up/down = muda a direção do item.
 
 report = printa na tela a matriz toda.
+
+# rodando como api
+
+para rodar como api, para conectar no front end, basta rodar o comando node server/server.js (necessario o npm i primeiramente)
